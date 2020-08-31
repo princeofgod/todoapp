@@ -41,7 +41,7 @@ body {
   /* border: solid 1px black; */
   margin: 5px 20px;
   height: 380px;
-  width: 460px;
+  width: 80%;
   overflow: auto;
 }
 .list {
