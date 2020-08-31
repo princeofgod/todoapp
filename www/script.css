@@ -75,19 +75,19 @@ p {
   margin: 5px;
   padding: 2px;
   font-size: 0.8rem;
-  width: 300px;
+  width: 80%;
 }
 
 .complete {
   margin: 4px;
-  width: 20px;
+  width: 3%;
   height: 20px;
   float: right;
   padding: auto;
 }
 .deleted {
   margin: 4px;
-  width: 20px;
+  width: 3%;
   height: 20px;
   float: right;
   background-color: red;
